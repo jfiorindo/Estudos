@@ -5,8 +5,7 @@ console.log(typeof(alunos));
 
 //console.log(alunos instanceof Array) //checar se é array
 
-//alunos.push('luiza');
-//alunos.push('Eduardo');
+
 //delete alunos[1]; // deletar sem trocar indice
 
 //alunos.shift(); // remove do começo
