@@ -1,2 +1,2 @@
 # Estudos
- Estudos recaptulando desde o básico até o avançado
+ Estudos recapitulando desde o básico até o avançado
